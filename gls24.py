@@ -1,1 +1,1 @@
-print("2btec melhor salar")
+print("2btec melhor sala")
