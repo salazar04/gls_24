@@ -1,0 +1,1 @@
+print("2btec melhor salar")
